@@ -71,12 +71,6 @@ The target variable `Accident_severity` is a **multi-class** classification prob
 
 ---
 
-## 📎 Author & Credits
-
-This dataset and project were part of a master's research study. Special thanks to the Addis Ababa Sub-city police departments for the dataset.
-
----
-
 ## 🏁 Conclusion
 
 This project demonstrates the effectiveness of data preprocessing, feature selection, and class balancing techniques in improving multi-class classification performance. It also highlights how real-world accident data can be leveraged to improve road safety analysis using ML.
